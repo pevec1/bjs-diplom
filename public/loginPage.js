@@ -7,7 +7,7 @@ user.loginFormCallback = function(data){
     {
         if (response.success === false) throw response.error;
         try{
-            console.log(data);
+            console.log(response);
             setTimeout(() => location.reload(), 1000);
         } catch {
             console.log(response);
