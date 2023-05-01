@@ -72,6 +72,18 @@
         "EUR": 10,
         "NTC": 90.73504459627442
       }
+    },
+    {
+      "created_at": "2023-05-01T12:08:45.985Z",
+      "login": "pevec116@mail.ru",
+      "password": "123456",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 2,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
@@ -95,6 +107,9 @@
     "6": {
       "1": "oleg",
       "4": "vladimir"
+    },
+    "7": {
+      "6": "Andrei"
     }
   }
 }
